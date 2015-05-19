@@ -1,0 +1,5 @@
+---
+  nodes:
+    - 'example_node'
+  network: '10.10.10'
+  remove_mysql: false
