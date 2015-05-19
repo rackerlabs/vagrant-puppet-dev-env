@@ -24,6 +24,6 @@ Develop your puppet modules & features like a human being!  No puppet master req
 From vargrant-puppet-dev-env run the following commands:
 * `vagrant init` - Run once to initialize your vagrant environment
 * `vagrant up [node]` - Bring up a VM & provision with puppet
-* `vagrant provision [node]` - provision an existing running VM with puppet (helpful on iterating)
-* `vagrant ssh [node]` - ssh into a running VM
-* `vagrant halt [node]` - shutdown the VM
+* `vagrant provision [node]` - Provision an existing running VM with puppet (helpful on iterating)
+* `vagrant ssh [node]` - `ssh` into a running VM
+* `vagrant halt [node]` - Shutdown the VM
