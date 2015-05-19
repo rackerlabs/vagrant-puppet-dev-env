@@ -15,8 +15,8 @@ Develop your puppet modules & features like a human being!  No puppet master req
 
 ## Setting up your dev environment
 
-* `config.yml` - enumerate the vm nodes you want to run & their IPs.
-* `manifests/site.pp` - emumerate the puppet profiles to run on your nodes.
+* `config.yml` - enumerate the VM nodes you want to run & their IPs.
+* `manifests/site.pp` - emumerate which puppet profiles to on which VM nodes.
 * `modules` - Copy your puppet modules into this directory.  E.g., `modules/your_puppet_module/...`
 
 ## Running vagrant & testing puppet
