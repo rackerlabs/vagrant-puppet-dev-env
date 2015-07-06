@@ -27,3 +27,6 @@ From vargrant-puppet-dev-env run the following commands:
 * `vagrant provision [node]` - Provision an existing running VM with puppet (helpful on iterating)
 * `vagrant ssh [node]` - `ssh` into a running VM
 * `vagrant halt [node]` - Shutdown the VM
+
+## More info
+For Rackers, also check out:https://one.rackspace.com/pages/viewpage.action?title=How+to+test+puppet+changes+locally+using+vagrant&spaceKey=cloudfeeds
